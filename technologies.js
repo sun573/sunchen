@@ -27,17 +27,17 @@ var technologies = [
 		technology: "Minitab",
 		level: "Expert",
 		description: "Strong experience with graphical statistical procedures. ",
-		logo: "sass",
+		logo: "minitab",
 		primaryColor: "#6BDD4A",
 		competence: "85"
 	},
 	{
-		technology: "C",
+		technology: "Simio",
 		level: "Intermediate",
-		description: "Intermediate coursework with memory allocation and advanced programming. ",
-		logo: "java",
-		primaryColor: "#31B1D4",
-		competence: "50"
+		description: "Intermediate coursework in simulating complex systems. ",
+		logo: "simio",
+		primaryColor: "#4FDFC9",
+		competence: "42"
 	},
 	{
 		technology: "MySQL",
@@ -56,12 +56,12 @@ var technologies = [
 		competence: "50"
 	},
 	{
-		technology: "Simio",
+		technology: "C",
 		level: "Intermediate",
-		description: "Intermediate coursework in simulating complex systems. ",
-		logo: "simio",
-		primaryColor: "#4FDFC9",
-		competence: "42"
+		description: "Intermediate coursework with memory allocation and advanced programming. ",
+		logo: "java",
+		primaryColor: "#31B1D4",
+		competence: "50"
 	},
 	{
 		technology: "ExpertFit",
