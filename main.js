@@ -39,9 +39,9 @@ function buildTechnologyBlock(technology) {
 	$description
 		.addClass('technology-description')
 		.text(technology.description);
-	$tag
-		.text(technology.level)
-		.addClass('technology-level technology-level-' + generateSlug(technology.level));
+	// $tag
+	// 	.text(technology.level)
+	// 	.addClass('technology-level technology-level-' + generateSlug(technology.level));
 
 	$progressBar.append($progressBarValue)
 	$outerDiv.append($progressBar);

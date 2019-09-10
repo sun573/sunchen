@@ -100,7 +100,7 @@ section {
     font-size: 200%;
   }
 }
-.technology-level {
+/*.technology-level {
   display: inline-block;
   margin-left: 8px;
   padding: 1px 12px 2px;
@@ -131,6 +131,6 @@ section {
   background-color: #333;
   border-color: gray;
   box-shadow: 1px 2px 7px rgba(26, 26, 26, 0.4);
-}
+}*/
 @import "bootstrap";
 /*# sourceMappingURL=style.css.map */
