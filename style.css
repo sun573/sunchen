@@ -1,7 +1,7 @@
 body {
   background: #E7E7E7;
   font-family: Helvetica, sans-serif;
-  font-size: 14px;
+  /*font-size: 14px;*/
   margin: 0;
 }
 
@@ -15,16 +15,8 @@ section {
   }
 }
 
-.name {
-  position: absolute;
-  top: 5vw;
-  left: 50%;
-  transform: translateX(-50%);
-  color: #647280;
-}
-
 .me {
-  object-fit: contain;  
+  object-fit: /*contain;*/
   border: 10px solid #e6e6fa;
   border-radius: 50%;
   border-width: thick;
@@ -96,7 +88,7 @@ section {
 }
 @media only screen and (max-width: 1024px) {
   .technology-heading {
-    font-size: 3em;
+    font-size: 300%;
   }
 }
 .technology-description {
@@ -105,7 +97,7 @@ section {
 }
 @media only screen and (max-width: 1024px) {
   .technology-description {
-    font-size: 2em;
+    font-size: 200%;
   }
 }
 .technology-level {
