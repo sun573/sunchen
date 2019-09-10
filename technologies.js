@@ -1,74 +1,114 @@
 var technologies = [
 	{
-		technology: "Angular",
+		technology: "Excel",
 		level: "Expert",
-		description: "Application architecture, building, maintaining",
-		logo: "angular",
-		primaryColor: "#C40230",
-		competence: "93"
+		description: "Real world experience in data manipulation and graphical visualization. ",
+		logo: "excel",
+		primaryColor: "#1D6F42",
+		competence: "90"
 	},
 	{
-		technology: "SVG",
+		technology: "Python",
 		level: "Expert",
-		description: "Digging deep into SVG and its applications.",
-		logo: "svg",
-		primaryColor: "#FF9801",
-		competence: "98"
+		description: "Heavy coursework with data proccessing and mathematical procedures. ",
+		logo: "python",
+		primaryColor: "#F5E226",
+		competence: "85"
 	},
 	{
-		technology: "HTML / CSS",
-		level: "Expert",
-		description: "Up to date with the latest in HTML5 and CSS3 standards",
-		logo: "html5",
-		primaryColor: "#F2642A",
-		competence: "95"
+		technology: "R",
+		level: "Intermediate",
+		description: "Intermediate coursework with code based statistical procedures. ",
+		logo: "r",
+		primaryColor: "#808080",
+		competence: "70"
 	},
 	{
-		technology: "Sass",
+		technology: "Minitab",
 		level: "Expert",
-		description: "Deep knowledge of CSS pre-processors for efficient, maintainable code",
+		description: "Strong experience with graphical statistical procedures. ",
 		logo: "sass",
-		primaryColor: "#CF6D9D",
-		competence: "99"
+		primaryColor: "#6BDD4A",
+		competence: "85"
 	},
 	{
-		technology: "Javascript",
-		level: "Expert",
-		description: "Deep understanding of the language and how to write efficient, scalable code",
-		logo: "js",
-		primaryColor: "#EFDF5E",
-		competence: "92"
+		technology: "C",
+		level: "Intermediate",
+		description: "Intermediate coursework with memory allocation and advanced programming. ",
+		logo: "java",
+		primaryColor: "#31B1D4",
+		competence: "50"
 	},
 	{
 		technology: "MySQL",
 		level: "Intermediate",
-		description: "Strengths in architecting db schema and data retrieval",
+		description: "Intermediate coursework with architecting db schema and data retrieval. ",
 		logo: "mysql",
 		primaryColor: "#70AFBE",
-		competence: "75"
+		competence: "60"
 	},
 	{
-		technology: "PHP",
-		level: "Intermediate",
-		description: "Object oriented programming and architecture, experienced in 1.x Zend Framework",
-		logo: "php",
-		primaryColor: "#808080",
-		competence: "73"
-	},
-	{
-		technology: "React Native",
+		technology: "Matlab and Simulink",
 		level: "Basic",
-		description: "Written a few non-production apps, nothing long term",
-		logo: "react_native",
-		primaryColor: "#06A5D1",
+		description: "Light coursework with mathematical procedures and simulation. ",
+		logo: "matlab",
+		primaryColor: "#2197E9",
+		competence: "50"
+	},
+	{
+		technology: "Simio",
+		level: "Intermediate",
+		description: "Intermediate coursework in simulating complex systems. ",
+		logo: "simio",
+		primaryColor: "#4FDFC9",
 		competence: "42"
 	},
 	{
-		technology: "Flutter",
+		technology: "ExpertFit",
+		level: "Intermediate",
+		description: "Able to fit most distribution models. ",
+		logo: "expertfit",
+		primaryColor: "#195D8D",
+		competence: "70"
+	},
+	{
+		technology: "HTML / CSS",
+		level: "Intermediate",
+		description: "Up to date with the latest in HTML5 and CSS3 standards",
+		logo: "html5",
+		primaryColor: "#F2642A",
+		competence: "80"
+	},
+	{
+		technology: "Java",
 		level: "Basic",
-		description: "Just starting to dig in and learn this exciting offering from Google to build single codebase mobile apps!",
-		logo: "flutter",
-		primaryColor: "#42A5F5",
-		competence: "25"
+		description: "High school coursework with basic Java programs. ",
+		logo: "java",
+		primaryColor: "#31B1D4",
+		competence: "50"
+	},
+	{
+		technology: "Javascript",
+		level: "Basic",
+		description: "Able to write part of this javascript website. ",
+		logo: "js",
+		primaryColor: "#EFDF5E",
+		competence: "50"
+	},
+	{
+		technology: "Adobe Photoshop",
+		level: "Expert",
+		description: "Strong personal experience in editing photos. ",
+		logo: "ps",
+		primaryColor: "#061A5C",
+		competence: "80"
+	},
+	{
+		technology: "Adobe Premiere Pro",
+		level: "Expert",
+		description: "Strong personal experience in editing videos. ",
+		logo: "pp",
+		primaryColor: "#590773",
+		competence: "80"
 	}
 ];
