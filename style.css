@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-.hero {
+/*.hero {
   position: relative;
   background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
   margin-bottom: 20%;
@@ -61,8 +61,8 @@ body {
   top: -14%;
   left: 16%;
   opacity: 0.8;
-}
-
+}*/
+/*
 .image-container {
   width: 30%;
   transform: translateY(15vw);
@@ -127,7 +127,7 @@ body {
 .image-container .profile-image.being-pressed {
   transform: scale(0.8, 0.8);
   opacity: 0.8;
-}
+}*/
 
 section {
   width: 50%;
@@ -170,7 +170,7 @@ section {
   box-sizing: border-box;
 }
 .technology-competence-bar-value {
-  height: 17px;
+  height: 28px;
   width: 2%;
   background: #333;
 }
