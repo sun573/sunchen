@@ -34,9 +34,9 @@ section {
   left: 50%;
 }
 
-.section-about h1 {
+/*.section-about h1 {
   text-align: center;
-}
+}*/
 .section-about p, .section-about a {
   color: #4d4d4d;
 }
