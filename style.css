@@ -1,5 +1,5 @@
 body {
-  background: #E7E7E7;
+  background: #e7e7e7;
   font-family: Helvetica, sans-serif;
   /*font-size: 14px;*/
   margin: 0;
@@ -9,16 +9,26 @@ section {
   width: 50%;
   margin: 0 auto 40px;
 }
+
 @media only screen and (max-width: 1024px) {
   section {
     width: 90%;
   }
-}
-
-@media only screen and (max-width: 1024px) {
   .section-about {
-    font-size: 2em;
-    line-height: 1.15em;
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  button {
+    font-size: 3rem;
+  }
+  h1 {
+    font-size: 4rem !important;
+  }
+  h2 {
+    font-size: 3rem !important;
+  }
+  h3 {
+    font-size: 2.3rem !important;
   }
 }
 .background {
@@ -31,17 +41,11 @@ section {
   margin-bottom: fill;
 }
 
-.button{
-  font-size: 2em;
-}
-@media only screen and (max-width: 1024px) {
-  button {
-  font-size: 3em;
-  }
+.button {
+  font-size: 2rem;
 }
 
 .me {
-  object-fit: /*contain;*/
   border: 10px solid #e6e6fa;
   border-radius: 50%;
   border-width: thick;
@@ -64,12 +68,12 @@ section {
 .technology {
   background: white;
   margin-bottom: 10px;
-  box-shadow: 1px 3px 8px #CCC;
+  box-shadow: 1px 3px 8px #ccc;
 }
 @media only screen and (max-width: 1024px) {
   .technology {
     margin-bottom: 30px;
-    box-shadow: 7px 10px 30px #CCC;
+    box-shadow: 7px 10px 30px #ccc;
   }
 }
 .technology-competence-bar {
@@ -111,8 +115,8 @@ section {
 }
 @media only screen and (max-width: 1024px) {
   .technology-heading {
-    font-size: 3em;
-    line-height: 1.15em;
+    font-size: 3rem;
+    line-height: 2.5rem;
   }
 }
 .technology-description {
@@ -121,7 +125,7 @@ section {
 }
 @media only screen and (max-width: 1024px) {
   .technology-description {
-    font-size: 2em;
-    line-height: 1.15em;
+    font-size: 2rem;
+    line-height: 2.5rem;
   }
 }
