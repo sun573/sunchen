@@ -37,10 +37,7 @@ section {
   left: 50%;
 }
 
-.section-about h1 {
-  text-align: center;
-}
-.section-about p, .section-about a {
+.section-about {
   color: #4d4d4d;
 }
 
@@ -91,6 +88,11 @@ section {
     margin-right: 40px;
   }
 }
+@media only screen and (max-width: 1024px) {
+  .section-about {
+    font-size: 14pt;
+  }
+}
 .technology-heading {
   display: flex;
   align-items: center;
@@ -100,6 +102,7 @@ section {
 @media only screen and (max-width: 1024px) {
   .technology-heading {
     font-size: 3em;
+    line-height: 1.5em;
   }
 }
 .technology-description {
@@ -109,6 +112,7 @@ section {
 @media only screen and (max-width: 1024px) {
   .technology-description {
     font-size: 2em;
+    line-height: 1.5em;
   }
 }
 
