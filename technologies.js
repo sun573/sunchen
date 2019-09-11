@@ -34,10 +34,18 @@ var technologies = [
 	{
 		technology: "Simio",
 		level: "Intermediate",
-		description: "Intermediate coursework in simulating complex systems. ",
+		description: "Intermediate coursework with simulating complex systems. ",
 		logo: "simio",
 		primaryColor: "#4FDFC9",
-		competence: "42"
+		competence: "55"
+	},
+	{
+		technology: "FICO Xpress Solver",
+		level: "Intermediate",
+		description: "Intermediate coursework with solving integer programs. ",
+		logo: "fico",
+		primaryColor: "#3B2A35",
+		competence: "50"
 	},
 	{
 		technology: "MySQL",
@@ -98,7 +106,7 @@ var technologies = [
 	{
 		technology: "Adobe Photoshop",
 		level: "Expert",
-		description: "Strong personal experience in editing photos. ",
+		description: "Strong personal experience with editing photos. ",
 		logo: "ps",
 		primaryColor: "#061A5C",
 		competence: "80"
@@ -106,7 +114,7 @@ var technologies = [
 	{
 		technology: "Adobe Premiere Pro",
 		level: "Expert",
-		description: "Strong personal experience in editing videos. ",
+		description: "Strong personal experience with editing videos. ",
 		logo: "pp",
 		primaryColor: "#590773",
 		competence: "80"
