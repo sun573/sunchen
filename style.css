@@ -112,7 +112,7 @@ section {
 @media only screen and (max-width: 1024px) {
   .technology-heading {
     font-size: 3em;
-    line-height: 1.5em;
+    line-height: 1.25em;
   }
 }
 .technology-description {
@@ -122,6 +122,6 @@ section {
 @media only screen and (max-width: 1024px) {
   .technology-description {
     font-size: 2em;
-    line-height: 1.5em;
+    line-height: 1.25em;
   }
 }
