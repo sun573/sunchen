@@ -15,8 +15,8 @@ section {
   }
 }
 
-.button {
-  background-color: #4CAF50; /* Green */
+/*.button {
+  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -24,7 +24,7 @@ section {
   text-decoration: none;
   display: inline-block;
   font-size: 100%;
-}
+}*/
 
 .me {
   object-fit: /*contain;*/
@@ -111,37 +111,6 @@ section {
     font-size: 200%;
   }
 }
-/*.technology-level {
-  display: inline-block;
-  margin-left: 8px;
-  padding: 1px 12px 2px;
-  border: 2px solid;
-  border-radius: 0 10px;
-  font-size: 10px;
-  text-transform: uppercase;
-  cursor: default;
-  color: white;
-}
-@media only screen and (max-width: 1024px) {
-  .technology-level {
-    margin-left: 24px;
-    font-size: 0.4em;
-  }
-}
-.technology-level-expert {
-  background-color: #A22;
-  border-color: #e68080;
-  box-shadow: 1px 2px 7px rgba(128, 26, 26, 0.4);
-}
-.technology-level-intermediate {
-  background-color: #22A;
-  border-color: #8080e6;
-  box-shadow: 1px 2px 7px rgba(26, 26, 128, 0.4);
-}
-.technology-level-basic {
-  background-color: #333;
-  border-color: gray;
-  box-shadow: 1px 2px 7px rgba(26, 26, 26, 0.4);
-}*/
+
 @import "bootstrap";
 /*# sourceMappingURL=style.css.map */
