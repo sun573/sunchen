@@ -25,17 +25,6 @@ section {
   margin-bottom: fill;
 }
 
-/*.button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 100%;
-}*/
-
 .me {
   object-fit: /*contain;*/
   border: 10px solid #e6e6fa;
@@ -53,7 +42,8 @@ section {
 
 #technologies-list {
   list-style: none;
-  padding: 0;
+  /*padding: 0;*/
+  margin-left: 0;
 }
 
 .technology {
@@ -101,6 +91,7 @@ section {
 @media only screen and (max-width: 1024px) {
   .section-about {
     font-size: 2em;
+    line-height: 2em;
   }
 }
 .technology-heading {
@@ -125,82 +116,3 @@ section {
     line-height: 1.5em;
   }
 }
-
-/*.section-about h1 {
-  text-align: center;
-}
-.section-about p, .section-about a {
-  color: #4d4d4d;
-}
-
-#technologies-list {
-  list-style: none;
-  padding: 0;
-}
-
-.technology {
-  background: white;
-  margin-bottom: 10px;
-  box-shadow: 1px 3px 8px #CCC;
-}
-@media only screen and (max-width: 1024px) {
-  .technology {
-    margin-bottom: 30px;
-    box-shadow: 7px 10px 30px #CCC;
-  }
-}
-.technology-competence-bar {
-  width: 100%;
-  height: 28px;
-  background: #dadada;
-  border-top: 6px solid white;
-  box-sizing: border-box;
-}
-.technology-competence-bar-value {
-  height: 21px;
-  width: 2%;
-  background: #333;
-}
-.technology-content {
-  display: flex;
-  align-items: center;
-  padding: 3px 15px 15px;
-}
-.technology-logo {
-  width: 50px;
-  min-width: 50px;
-  height: 50px;
-  margin-right: 12px;
-}
-@media only screen and (max-width: 1024px) {
-  .technology-logo {
-    min-width: 150px;
-    width: 150px;
-    height: 150px;
-    margin-right: 40px;
-  }
-}
-.technology-heading {
-  display: flex;
-  align-items: center;
-  margin: 0 0 4px;
-  font-size: 20px;
-}
-@media only screen and (max-width: 1024px) {
-  .technology-heading {
-    font-size: 300%;
-  }
-}
-.technology-description {
-  margin: 0;
-  font-size: 100%;
-  color: #666666;
-}
-@media only screen and (max-width: 1024px) {
-  .technology-description {
-    font-size: 200%;
-  }
-}*/
-
-/*@import "bootstrap";*/
-/*# sourceMappingURL=style.css.map */

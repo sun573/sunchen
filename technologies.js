@@ -28,7 +28,7 @@ var technologies = [
 		level: "Expert",
 		description: "Strong experience with graphical statistical procedures. ",
 		logo: "minitab",
-		primaryColor: "#6BDD4A",
+		primaryColor: "#64CB46",
 		competence: "85"
 	},
 	{
