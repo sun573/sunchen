@@ -13,8 +13,23 @@ section {
   section {
     width: 90%;
   }
+  h1{
+    font-size: 3em;
+  }
+  h2{
+    font-size: 3em;
+  }
+  h3{
+    font-size: 3em;
+  }
 }
 
+@media only screen and (max-width: 1024px) {
+  .section-about {
+    font-size: 2em;
+    line-height: 1.25em;
+  }
+}
 .background {
   background-position: center center;
   background-repeat: no-repeat;
@@ -95,12 +110,6 @@ section {
     width: 150px;
     height: 150px;
     margin-right: 40px;
-  }
-}
-@media only screen and (max-width: 1024px) {
-  .section-about {
-    font-size: 2em;
-    line-height: 1.25em;
   }
 }
 .technology-heading {
