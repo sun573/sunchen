@@ -68,12 +68,12 @@ section {
 .technology {
   background: white;
   margin-bottom: 10px;
-  /*box-shadow: 1px 3px 8px #ccc;*/
+  box-shadow: 1px 3px 8px #ccc;
 }
 @media only screen and (max-width: 1024px) {
   .technology {
     margin-bottom: 30px;
-    /*box-shadow: 7px 10px 30px #ccc;*/
+   box-shadow: 7px 10px 30px #ccc;
   }
 }
 .technology-competence-bar {
@@ -84,7 +84,7 @@ section {
   box-sizing: border-box;
 }
 .technology-competence-bar-value {
-  height: 22px;
+  height: 17px;
   width: 2%;
   background: #333;
 }
