@@ -82,7 +82,7 @@ var technologies = [
 	{
 		technology: "HTML / CSS",
 		level: "Intermediate",
-		description: "Up to date with the latest in HTML5 and CSS3 standards",
+		description: "Up to date with the latest in HTML5 and CSS3 standards. ",
 		logo: "html5",
 		primaryColor: "#F2642A",
 		competence: "80"
