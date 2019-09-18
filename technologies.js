@@ -59,7 +59,7 @@ var technologies = [
 		technology: "C",
 		level: "Intermediate",
 		description: "Intermediate coursework with memory allocation and advanced programming. ",
-		logo: "java",
+		logo: "c",
 		primaryColor: "#31B1D4",
 		competence: "50"
 	},
