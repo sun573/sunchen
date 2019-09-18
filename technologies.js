@@ -2,7 +2,7 @@ var technologies = [
 	{
 		technology: "Excel",
 		level: "Expert",
-		description: "Real world experience in data manipulation and graphical visualization. ",
+		description: "Real world experience with data manipulation and graphical visualization. ",
 		logo: "excel",
 		primaryColor: "#1D6F42",
 		competence: "90"
@@ -10,7 +10,7 @@ var technologies = [
 	{
 		technology: "Python",
 		level: "Expert",
-		description: "Heavy coursework with data proccessing and mathematical procedures. ",
+		description: "Efficient code for data proccessing and mathematical procedures. ",
 		logo: "python",
 		primaryColor: "#F5E226",
 		competence: "85"
@@ -18,7 +18,7 @@ var technologies = [
 	{
 		technology: "R",
 		level: "Intermediate",
-		description: "Intermediate coursework with code based statistical procedures. ",
+		description: "Code based statistical analysis, visualization, and modeling. ",
 		logo: "r",
 		primaryColor: "#808080",
 		competence: "70"
@@ -26,7 +26,7 @@ var technologies = [
 	{
 		technology: "Minitab",
 		level: "Expert",
-		description: "Strong experience with graphical statistical procedures. ",
+		description: "GUI based statistical analysis, visualization, and modeling. ",
 		logo: "minitab",
 		primaryColor: "#64CB46",
 		competence: "85"
@@ -34,10 +34,18 @@ var technologies = [
 	{
 		technology: "Simio",
 		level: "Intermediate",
-		description: "Intermediate coursework in simulating complex systems. ",
+		description: "Able to build small and large scale simulations for complex systems. ",
 		logo: "simio",
 		primaryColor: "#4FDFC9",
-		competence: "42"
+		competence: "55"
+	},
+	{
+		technology: "FICO Xpress Solver",
+		level: "Intermediate",
+		description: "Efficient programs for solving integer programs and optimizing processes. ",
+		logo: "fico",
+		primaryColor: "#3B2A35",
+		competence: "50"
 	},
 	{
 		technology: "MySQL",
@@ -50,7 +58,7 @@ var technologies = [
 	{
 		technology: "Matlab and Simulink",
 		level: "Basic",
-		description: "Light coursework with mathematical procedures and simulation. ",
+		description: "Light programming for mathematical procedures and simulation. ",
 		logo: "matlab",
 		primaryColor: "#2197E9",
 		competence: "50"
@@ -58,7 +66,7 @@ var technologies = [
 	{
 		technology: "C",
 		level: "Intermediate",
-		description: "Intermediate coursework with memory allocation and advanced programming. ",
+		description: "High level, efficient code with memory allocation and advanced programming. ",
 		logo: "c",
 		primaryColor: "#31B1D4",
 		competence: "50"
@@ -74,7 +82,7 @@ var technologies = [
 	{
 		technology: "HTML / CSS",
 		level: "Intermediate",
-		description: "Up to date with the latest in HTML5 and CSS3 standards",
+		description: "Up to date with the latest in HTML5 and CSS3 standards. ",
 		logo: "html5",
 		primaryColor: "#F2642A",
 		competence: "80"
@@ -98,7 +106,7 @@ var technologies = [
 	{
 		technology: "Adobe Photoshop",
 		level: "Expert",
-		description: "Strong personal experience in editing photos. ",
+		description: "Strong personal experience with editing photos and advanced imagery. ",
 		logo: "ps",
 		primaryColor: "#061A5C",
 		competence: "80"
@@ -106,7 +114,7 @@ var technologies = [
 	{
 		technology: "Adobe Premiere Pro",
 		level: "Expert",
-		description: "Strong personal experience in editing videos. ",
+		description: "Strong personal experience with editing and producing videos. ",
 		logo: "pp",
 		primaryColor: "#590773",
 		competence: "80"
