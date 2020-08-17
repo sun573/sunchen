@@ -16,12 +16,20 @@ var technologies = [
 		competence: "85"
 	},
 	{
+		technology: "MySQL",
+		level: "Intermediate",
+		description: "Intermediate coursework with architecting db schema and data retrieval. ",
+		logo: "mysql",
+		primaryColor: "#70AFBE",
+		competence: "80"
+	},
+	{
 		technology: "R",
 		level: "Intermediate",
 		description: "Code based statistical analysis, visualization, and modeling. ",
 		logo: "r",
 		primaryColor: "#808080",
-		competence: "70"
+		competence: "50"
 	},
 	{
 		technology: "Minitab",
@@ -46,14 +54,6 @@ var technologies = [
 		logo: "fico",
 		primaryColor: "#3B2A35",
 		competence: "50"
-	},
-	{
-		technology: "MySQL",
-		level: "Intermediate",
-		description: "Intermediate coursework with architecting db schema and data retrieval. ",
-		logo: "mysql",
-		primaryColor: "#70AFBE",
-		competence: "60"
 	},
 	{
 		technology: "Matlab and Simulink",
