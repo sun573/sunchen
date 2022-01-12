@@ -1,5 +1,13 @@
 var technologies = [
 	{
+		technology: "OMP",
+		level: "Expert",
+		description: "Professional experience with impelenting, demonstrating, and planning with a powerfuly supply chain planning tool. ",
+		logo: "omp",
+		primaryColor: "#9FD4CE",
+		competence: "95"
+	},
+	{
 		technology: "Excel",
 		level: "Expert",
 		description: "Real world experience with data manipulation and graphical visualization. ",
